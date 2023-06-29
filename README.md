@@ -28,6 +28,8 @@ In this section there are some outlines and prerequisites and installations that
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/ac62c421-e09c-42d4-82bf-2fce27a26e66)
+
 <p>
 </p>
 <p>
