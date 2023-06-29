@@ -20,10 +20,13 @@ In this section there are some outlines and prerequisites and installations that
 
 <h2>Pre-Reg Configuration and Installation Objectives</h2>
 
+![Screenshot 2023-06-29 152828](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/8ce4b1eb-8fcd-44e8-8f82-f16ced3cd7a6)
 
-![Screenshot 2023-06-29 130437](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/6586a16f-b3e2-4507-904c-525c1ce68917)
+![image](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/517239c1-cda7-4bd3-9653-d5dba31913b8)
 
-![Screenshot 2023-06-29 131149](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/6aad3320-534c-4659-a445-7517a0a4ebe7)
+![Screenshot 2023-06-29 155009](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/fa537e64-33ef-469b-bce0-3abb4dd2e15d)
+
+
 
 ![image](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/7608889c-e464-400c-8dce-9b1dcf0e7e0e)
 
