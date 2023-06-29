@@ -18,13 +18,7 @@ In this section there are some outlines and prerequisites and installations that
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
@@ -37,6 +31,13 @@ In this section there are some outlines and prerequisites and installations that
 
 ![image](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/9f13c202-3b0c-483f-be9f-2568364b2e72)
 
+![Screenshot 2023-06-29 123302](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c631fc52-3cb2-47dd-acdd-5b2f77dc8ea6)
+
+
+![Screenshot 2023-06-29 123826](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/3893b099-3433-4736-934e-a712e32b0065)
+
+
+![Screenshot 2023-06-29 124213](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/ef660625-de08-4e67-b213-07c31059bc5c)
 
 <p>
 </p>
