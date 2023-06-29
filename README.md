@@ -18,7 +18,12 @@ In this section there are some outlines and prerequisites and installations that
 
 - Windows 10</b> (21H2)
 
+<h2>Pre-Reg Configuration and Installation Objectives</h2>
+
+
 ![Screenshot 2023-06-29 130437](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/6586a16f-b3e2-4507-904c-525c1ce68917)
+
+![Screenshot 2023-06-29 131149](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/6aad3320-534c-4659-a445-7517a0a4ebe7)
 
 
 <h2>Installation Steps</h2>
