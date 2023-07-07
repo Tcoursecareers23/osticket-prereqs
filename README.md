@@ -111,6 +111,8 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-07 180721](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/0aa4059f-b3a6-404d-a56b-1b9e48bd0164)
 
+![Screenshot 2023-07-07 182640](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c5adf9ab-0fd4-48ee-a2cc-c71f5615d4b5)
+<br /><b/>RIGHT CLICK IIS AND  CLICK RUN AS ADMINISTRATOR
 
 
 
