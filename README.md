@@ -1,6 +1,6 @@
 # osticket-prereqs<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 In this section there are some outlines and prerequisites and installations that are used in this open-source help desk ticketing system osTicket.<br />
@@ -85,6 +85,28 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-07 171441](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/9a4cdd9c-6345-4d40-a415-da4ce70b573b)
 <br/><b/>RIGHT CLICK WHEN FINISHED DOWNLOADING
+
+![Screenshot 2023-07-07 172126](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/a5610a85-3e5c-459a-bace-31f62b3239fa)
+
+![Screenshot 2023-07-07 172343](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/974b19e7-0ddd-4bda-b00f-a3fe924cc3a5)
+
+![Screenshot 2023-07-07 172629](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/419c292d-8c09-4b7b-8975-c6fd3830bce5)
+
+![Screenshot 2023-07-07 173249](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/9a7ceadc-bf9d-4378-860c-f1d85df32c4f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
