@@ -121,8 +121,10 @@ In this section there are some outlines and prerequisites and installations that
 ![Screenshot 2023-07-07 184113](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/fafa467e-4f55-47bc-96a1-9ee725872cc7)
 <br/><b/>DOUBLE CLICK PHP MANAGER
 
+![Screenshot 2023-07-07 184545](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/54557635-02c7-4075-b7d5-c8d6af649279)
+<br /><b/>CLICK REGISTER
 
-
+![Screenshot 2023-07-07 185022](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/de4afa26-94c5-4e9a-913b-d321f9f5b3e6)
 
 
 
