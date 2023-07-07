@@ -70,7 +70,8 @@ In this section there are some outlines and prerequisites and installations that
 ![Screenshot 2023-07-07 163932](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/784871b5-73a6-413f-8513-33c05015926b)
 <br /><b/>CREATE NEW FOLDER CALL IT 'PHP'
 
-
+![Screenshot 2023-07-07 165207](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c4ab1d2b-bf11-4cb0-9607-934c88c532e0)
+<br /><b/>INSTALLATION FILES
 
 
 <p>
