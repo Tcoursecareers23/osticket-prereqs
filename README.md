@@ -94,7 +94,9 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-07 173249](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/9a7ceadc-bf9d-4378-860c-f1d85df32c4f)
 
+![Screenshot 2023-07-07 173444](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/42eaf042-10bc-4e65-8cb9-9ffb1e28072f)
 
+![Screenshot 2023-07-07 173708](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/122e87e6-696d-4faf-b100-0cd851cb43fa)
 
 
 
