@@ -111,8 +111,25 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-07 180721](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/0aa4059f-b3a6-404d-a56b-1b9e48bd0164)
 
+![Screenshot 2023-07-07 183416](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/d7705757-93a0-4aff-8ec6-ec91a1b5577b)
+
 ![Screenshot 2023-07-07 182640](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c5adf9ab-0fd4-48ee-a2cc-c71f5615d4b5)
 <br /><b/>RIGHT CLICK IIS AND  CLICK RUN AS ADMINISTRATOR
+
+![Screenshot 2023-07-07 183430](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/e0cccfda-def2-4fdb-89dd-3c7df56d6226)
+
+![Screenshot 2023-07-07 184113](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/fafa467e-4f55-47bc-96a1-9ee725872cc7)
+<br/><b/>DOUBLE CLICK PHP MANAGER
+
+
+
+
+
+
+
+
+
+
 
 
 
