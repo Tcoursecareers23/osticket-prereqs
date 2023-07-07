@@ -134,11 +134,22 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-07 190111](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/602c4e9a-9076-4cd5-b4a3-ee9c786d8c61)
 
+![Screenshot 2023-07-07 190559](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/efffb022-160f-4ee4-a7c5-2476e80b4451)
 
+![Screenshot 2023-07-07 191242](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/baeec129-190f-4bf3-b2d8-250e7663fc4b)
 
+![Screenshot 2023-07-07 191007](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/574d93ac-dd9c-439f-ad8a-ba8fb43dae6e)
 
+![Screenshot 2023-07-07 191807](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/a7cd5da9-db01-47df-99e7-4a57df8aa5b2)
 
+![Screenshot 2023-07-07 192148](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/7a7da140-d616-4dd6-96d7-bf2f674ef31d)
 
+![Screenshot 2023-07-07 192549](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/1b40dade-1bca-4416-b0ce-89f6cf4d43e1)
+<br /><b/>NOTE:DON'T CLOSE THE OTHER WINDOW YOU WERE JUST WORKING WITH
+
+![Screenshot 2023-07-07 193031](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/0e35f660-8021-4837-9bff-be8876a20ca0)
+
+![Screenshot 2023-07-07 193333](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/856cfbf5-3b5c-42ad-a027-7af41875ac7f)
 
 
 
