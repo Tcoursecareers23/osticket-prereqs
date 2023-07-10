@@ -170,6 +170,29 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-10 141809](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c3d608b5-c085-4722-a8e4-429cdcad1a3c)
 
+![Screenshot 2023-07-10 142503](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/51b33327-0e2d-4cbc-b0d8-2a7b02b7fa2e)
+
+![Screenshot 2023-07-10 142355](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/7cf0b573-1c0a-40b8-ad5a-159959df0153)
+
+![Screenshot 2023-07-10 142850](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/bba9e9b0-df75-4be4-8186-0d75987b2480)
+<br /><b/>IF YOU GET A "ERROR" PAGE INSTEAD OF THE "OS TICKET INSTALLER" THEN UNFORTUNATLY YOU MAY HAVE TO START OVER THE WHOLE INSTALLATION PROCESS JUST TO DETECT/TROUBLESHOOT THE PROBLEM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
