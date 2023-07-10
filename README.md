@@ -250,7 +250,7 @@ In this section there are some outlines and prerequisites and installations that
 ![Screenshot 2023-07-10 160554](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/28b83efb-02fc-41c9-8c9e-9a9f48d67190)
 
 ![Screenshot 2023-07-10 160743](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/d05ebcb6-87a5-439b-bde8-1446738fd93e)
-<br /><b/> NOTE: SOME OF THESE SETTINGS LIKE THIS FOR INSTANCE IS JUST PERTAINING TO THIS LAB, I AM AWARE THE SETTINGS COULD BE DIFFERENT DEPENDING/OR DUE TO THE JOB
+<br /><b/> OKAY EVERYTHING AND ALSO,SOME OF THESE SETTINGS LIKE THIS FOR INSTANCE IS JUST PERTAINING TO THIS LAB, I AM AWARE THE SETTINGS COULD BE DIFFERENT DEPENDING/OR DUE TO THE JOB
 
 
 
