@@ -234,6 +234,32 @@ In this section there are some outlines and prerequisites and installations that
 ![Screenshot 2023-07-10 154926](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/65c764b6-b055-47ac-867c-28e75c1aacce)
 <br /><b/> RIGHT CLICK
 
+![Screenshot 2023-07-10 155308](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/e17fd943-407a-494a-91c0-d73f8ffe8070)
+<br /><b/> CLICK SECURITY TAB,THEN AT THE BOTTOM RIGHT CLICK ADVANCED
+
+![Screenshot 2023-07-10 155644](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c70891d7-06da-4bf9-957a-84987bfc8bc0)
+
+![Screenshot 2023-07-10 155748](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/871a54bc-4a4b-48fa-b6f6-910476bbc47b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
