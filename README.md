@@ -254,6 +254,46 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-10 164248](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/91a4fbaa-7c88-47c4-98a5-7ad6110af495)
 
+![Screenshot 2023-07-10 173501](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/40d2a1f1-d6c8-4cf2-9335-ae13148596e7)
+
+![Screenshot 2023-07-10 173640](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/b90ef33f-a3b5-4550-8689-2837b29ba105)
+
+![Screenshot 2023-07-10 173739](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/3e061f80-9669-4fb6-a235-3f9b468a9408)
+
+![Screenshot 2023-07-10 174157](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/175ed869-ee7f-47d4-99c2-455b782f549d)
+
+![Screenshot 2023-07-10 174544](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/754b1f17-443c-424f-8c2f-733c288b2b79)
+
+![Screenshot 2023-07-10 174428](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/582b1b78-8602-4b37-92eb-8c4d2875fd2d)
+
+![Screenshot 2023-07-10 174904](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/4ee6b50e-2938-4616-9d18-30e5156067ae)
+
+![Screenshot 2023-07-10 175032](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/8474447c-b13e-477c-b45c-15b729eb4438)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
