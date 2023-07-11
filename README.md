@@ -333,6 +333,26 @@ In this section there are some outlines and prerequisites and installations that
 
 ![Screenshot 2023-07-10 193120](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/c7d0f33e-3b31-4fcf-8f5b-67299f4b1246)
 
+![Screenshot 2023-07-10 193555](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/1a21e15b-a435-46f7-86c3-c91434d48092)
+
+![Screenshot 2023-07-10 194904](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/949779bf-cafe-4d6a-9501-c49ef0426d04)
+
+![Screenshot 2023-07-10 195110](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/9b3f83dc-cadf-499e-8b0b-86c7cc84651a)
+<br /><b/> COPY AND PASTE URL
+
+![Screenshot 2023-07-10 195506](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/133c4aca-3124-45c0-8ea0-019cf3e1777e)
+<br /><b/> YOUR ADMIN USER AND PASSWORD
+
+![Screenshot 2023-07-10 200030](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/ed00c0f5-f444-4031-a585-cc54d8dbe190)
+<br/><b/> YOUR OS-TICKET SCREEN SHOULD LOOK LIKE THIS
+<br /><b/> NOTE: THIS URL IS TO LOG INTO AND DO ADMIN WORK ON THE OS-TICKET
+<br />
+<br />
+<br />
+<br />
+
+![Screenshot 2023-07-10 194104](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/d8696de5-762b-478b-b087-18ebe9fa9081)
+<br /><b/> NOTE: THIS URL IS FOR END USERS WHO WANT TO CREATE TICKETS OUT OF OS-TICKET
 
 
 
