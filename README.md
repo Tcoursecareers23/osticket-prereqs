@@ -145,7 +145,7 @@ In this section there are some outlines and prerequisites and installations that
 ![Screenshot 2023-07-07 192148](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/7a7da140-d616-4dd6-96d7-bf2f674ef31d)
 
 ![Screenshot 2023-07-07 192549](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/1b40dade-1bca-4416-b0ce-89f6cf4d43e1)
-<br /><b/>NOTE:DON'T CLOSE THE OTHER WINDOW YOU WERE JUST WORKING WITH
+<br /><b/>NOTE: DON'T CLOSE THE OTHER WINDOW YOU WERE JUST WORKING WITH
 
 ![Screenshot 2023-07-07 193031](https://github.com/Tcoursecareers23/osticket-prereqs/assets/138035327/0e35f660-8021-4837-9bff-be8876a20ca0)
 
